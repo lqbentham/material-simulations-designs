@@ -4,4 +4,5 @@
 
 ## subroutine
 里面存了所有的abaqus用户子程序
-
+##new
+thanks for Dr. wuhuiguo
